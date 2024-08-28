@@ -3,6 +3,7 @@ import InputField from "./components/InputField";
 
 const App = () => {
   return (
+    // div for login container
     <div className="login-container">
       <h2 className="form-title">Log in with</h2>
       <SocialLogin />
